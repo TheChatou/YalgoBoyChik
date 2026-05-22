@@ -1,0 +1,28 @@
+name: Build assets
+
+on:
+  push:
+    paths:
+      - 'images/YalgoBoyChik/*.PNG'
+      - 'images/YalgoBoyChik/*.png'
+      - 'images/YalgoBoyChik/*.jpg'
+      - 'images/YalgoBoyChik/*.jpeg'
+      - 'images/YalgoBoyChik/order.json'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install Pillow
+      - run: python3 scripts/generate-assets.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: generate WebP assets [skip ci]"
+          file_pattern: "images/YalgoBoyChik/full/* images/YalgoBoyChik/thumbs/* images/YalgoBoyChik/manifest.js images/YalgoBoyChik/manifest.json"

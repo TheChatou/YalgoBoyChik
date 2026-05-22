@@ -1,0 +1,232 @@
+window.BOOK_SHEETS = [
+  {
+    "name": "IMG_2600.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2600.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2600.webp"
+  },
+  {
+    "name": "IMG_2601.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2601.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2601.webp"
+  },
+  {
+    "name": "IMG_2602.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2602.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2602.webp"
+  },
+  {
+    "name": "IMG_2603.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2603.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2603.webp"
+  },
+  {
+    "name": "IMG_2604.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2604.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2604.webp"
+  },
+  {
+    "name": "IMG_2605.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2605.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2605.webp"
+  },
+  {
+    "name": "IMG_2606.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2606.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2606.webp"
+  },
+  {
+    "name": "IMG_2607.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2607.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2607.webp"
+  },
+  {
+    "name": "IMG_2608.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2608.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2608.webp"
+  },
+  {
+    "name": "IMG_2609.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2609.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2609.webp"
+  },
+  {
+    "name": "IMG_2610.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2610.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2610.webp"
+  },
+  {
+    "name": "IMG_2611.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2611.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2611.webp"
+  },
+  {
+    "name": "IMG_2612.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2612.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2612.webp"
+  },
+  {
+    "name": "IMG_2613.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2613.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2613.webp"
+  },
+  {
+    "name": "IMG_2614.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2614.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2614.webp"
+  },
+  {
+    "name": "IMG_2615.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2615.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2615.webp"
+  },
+  {
+    "name": "IMG_2616.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2616.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2616.webp"
+  },
+  {
+    "name": "IMG_2617.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2617.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2617.webp"
+  },
+  {
+    "name": "IMG_2618.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2618.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2618.webp"
+  },
+  {
+    "name": "IMG_2619.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2619.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2619.webp"
+  },
+  {
+    "name": "IMG_2620.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2620.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2620.webp"
+  },
+  {
+    "name": "IMG_2621.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2621.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2621.webp"
+  },
+  {
+    "name": "IMG_2622.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2622.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2622.webp"
+  },
+  {
+    "name": "IMG_2623.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2623.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2623.webp"
+  },
+  {
+    "name": "IMG_2624.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2624.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2624.webp"
+  },
+  {
+    "name": "IMG_2625.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2625.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2625.webp"
+  },
+  {
+    "name": "IMG_2626.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2626.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2626.webp"
+  },
+  {
+    "name": "IMG_2627.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2627.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2627.webp"
+  },
+  {
+    "name": "IMG_2628.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2628.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2628.webp"
+  },
+  {
+    "name": "IMG_2629.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2629.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2629.webp"
+  },
+  {
+    "name": "IMG_2630.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2630.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2630.webp"
+  },
+  {
+    "name": "IMG_2631.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2631.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2631.webp"
+  },
+  {
+    "name": "IMG_2632.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2632.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2632.webp"
+  },
+  {
+    "name": "IMG_2633.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2633.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2633.webp"
+  },
+  {
+    "name": "IMG_2634.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2634.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2634.webp"
+  },
+  {
+    "name": "IMG_2635.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2635.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2635.webp"
+  },
+  {
+    "name": "IMG_2636.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2636.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2636.webp"
+  },
+  {
+    "name": "IMG_2637.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2637.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2637.webp"
+  },
+  {
+    "name": "IMG_2638.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2638.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2638.webp"
+  },
+  {
+    "name": "IMG_2639.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2639.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2639.webp"
+  },
+  {
+    "name": "IMG_2640.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2640.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2640.webp"
+  },
+  {
+    "name": "IMG_2641.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2641.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2641.webp"
+  },
+  {
+    "name": "IMG_2642.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2642.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2642.webp"
+  },
+  {
+    "name": "IMG_2658.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/IMG_2658.webp",
+    "full": "images/YalgoBoyChik/full/IMG_2658.webp"
+  },
+  {
+    "name": "Illustration_sans_titre 2.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/Illustration_sans_titre 2.webp",
+    "full": "images/YalgoBoyChik/full/Illustration_sans_titre 2.webp"
+  },
+  {
+    "name": "Illustration_sans_titre.JPG",
+    "thumb": "images/YalgoBoyChik/thumbs/Illustration_sans_titre.webp",
+    "full": "images/YalgoBoyChik/full/Illustration_sans_titre.webp"
+  }
+];
